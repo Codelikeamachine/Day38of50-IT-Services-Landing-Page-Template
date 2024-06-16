@@ -4,7 +4,7 @@ This project focuses on building a comprehensive landing page template to showca
 
 Here's your toolkit:
 
-Live Demo: 
+Live Demo: https://codelikeamachine.github.io/Day38of50-IT-Services-Landing-Page-Template/
 
 LinkedIn: http://www.linkedin.com/in/armaansaraswat
 
